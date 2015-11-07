@@ -29,6 +29,7 @@ return [
     |
     */
 
+	echo "hi...";
     
 	'lifetime' => 120,
 
