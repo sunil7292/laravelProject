@@ -29,8 +29,6 @@ return [
     |
     */
 	
-	echo 'krunal';
-	
 	'lifetime' => 120,
 
     'expire_on_close' => false,
