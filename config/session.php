@@ -28,6 +28,8 @@ return [
     | to immediately expire on the browser closing, set that option.
     |
     */
+	
+	echo 'hi...';
     
 	'lifetime' => 120,
 
